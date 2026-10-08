@@ -1,0 +1,10 @@
+{
+  "name": "rahul-amoli-advocate-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static HTML, CSS, and JavaScript website for Advocate Rahul Amoli",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000"
+  }
+}
